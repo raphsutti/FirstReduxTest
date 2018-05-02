@@ -5,5 +5,5 @@ export default function() {
     { title: "Learning React" },
     { title: "JavaScript is Awesome!" },
     { title: "Pragmatic Programmer" }
-  ]
+  ];
 }
